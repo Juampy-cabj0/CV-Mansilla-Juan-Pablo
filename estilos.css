@@ -325,7 +325,7 @@ html{
 }
 /* SECCION RESPONSIVE */
 @media screen and (max-width:850px){
-    .habilidades .contenido-seccion .fila
+    .habilidades .contenido-seccion .fila{
         display: block;
     }
     .habilidades .contenido-seccion .fila .col{
