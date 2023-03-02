@@ -4,6 +4,7 @@
     font-family: "Titillium Web";
     margin: 0;
     padding: 0;
+    width: auto;
 }
 html{
     scroll-behavior: smooth;
