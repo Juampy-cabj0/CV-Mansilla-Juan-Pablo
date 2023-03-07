@@ -364,9 +364,6 @@ html {
   }
 }
 @media screen and (max-width: 400px) {
-  * {
-    width: auto;
-  }
   .habilidades .contenido-seccion .barra .e {
     width: 15px;
   }
